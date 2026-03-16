@@ -49,4 +49,6 @@ python interface.py
 
 ## Application Interface
 
-![GUI](screenshots/gui.png)
+Below is the graphical user interface of the Plant Health Checker application:
+
+![Plant Health Checker GUI](gui_interface.png)
