@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+history_log.txt
+saved_images/
+.idea/
+.DS_Store
