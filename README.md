@@ -10,7 +10,17 @@ A graphical user interface (GUI) built using Tkinter allows users to upload plan
 ## Project Architecture
 
 ```text
-Plant Leaf Image → Image Preprocessing → Trained CNN Model → Class Prediction → Confidence Score + Recommendation → Tkinter GUI Display
+Plant Leaf Image
+        ↓
+Image Preprocessing
+        ↓
+Trained CNN Model
+        ↓
+Class Prediction
+        ↓
+Confidence Score + Recommendation
+        ↓
+Tkinter GUI Display
 ```
 
 ## Features
