@@ -19,7 +19,7 @@ A graphical user interface (GUI) built using Tkinter allows users to upload plan
 ## Dataset
 
 PlantVillage dataset containing multiple crop disease classes.
-The system supports classification of **38 plant disease categories** including apple scab, grape black rot, tomato diseases, potato blight, and more. :contentReference[oaicite:0]{index=0}
+The system supports classification of **38 plant disease categories** including apple scab, grape black rot, tomato diseases, potato blight, and more.
 
 ## Model Architecture
 
