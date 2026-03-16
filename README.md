@@ -45,8 +45,9 @@ NumPy
 
 ```bash
 pip install -r requirements.txt
-python interface.py
+python gui_interface.py
 
+```
 ## Application Interface
 
 Below is the graphical user interface of the Plant Health Checker application:
