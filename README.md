@@ -30,7 +30,7 @@ The CNN model includes:
 - Fully connected layers for classification
 - Dropout to prevent overfitting
 
-The model is trained using Adam optimizer and categorical cross entropy loss. :contentReference[oaicite:1]{index=1}
+The model is trained using Adam optimizer and categorical cross entropy loss. 
 
 ## Technologies Used
 
@@ -45,4 +45,8 @@ NumPy
 
 ```bash
 pip install -r requirements.txt
-python gui_interface.py
+python interface.py
+
+## Application Interface
+
+![GUI](screenshots/gui.png)
