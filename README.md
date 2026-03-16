@@ -7,6 +7,12 @@ A computer vision based machine learning system that detects plant diseases from
 This project uses a Convolutional Neural Network (CNN) trained on the PlantVillage dataset to classify plant diseases from images.  
 A graphical user interface (GUI) built using Tkinter allows users to upload plant images and receive disease predictions in real time.
 
+## Project Architecture
+
+```text
+Plant Leaf Image → Image Preprocessing → Trained CNN Model → Class Prediction → Confidence Score + Recommendation → Tkinter GUI Display
+```
+
 ## Features
 
 - Image-based plant disease detection
